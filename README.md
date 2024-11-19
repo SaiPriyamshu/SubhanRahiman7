@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 
 ---
 
-
-
-### 📊 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrahiman7&layout=compact&theme=onedark)
-
----
-
 ### 🛠️ Tools & Technology
 
 <table align="center">
