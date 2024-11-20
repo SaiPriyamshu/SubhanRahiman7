@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I’m passionate about problem-solving, software d
 <details>
   <summary><b>Click to view badges</b></summary><br>
   <a href="https://holopin.io/@alienx5499">
-    <img src="https://holopin.me/alienx5499" alt="Holopin Badges" />
+    <img src="https://holopin.me/subhanrahiman7" alt="Holopin Badges" />
   </a>
 </details>
 
